@@ -2,6 +2,7 @@
 
 
 #paper solutions
+![20240911_143648 1](https://github.com/user-attachments/assets/a185bfe5-e890-4365-8690-0de80d836f2d)
 
 
 #code
