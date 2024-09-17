@@ -47,3 +47,6 @@ for test_case in ['30, 10', '30, 5', '30, -10', '200, -180', '[10, 30, 10, 20] [
 
 ##Proof of work
 <img width="1470" alt="Screenshot 2024-08-27 at 9 23 17 AM" src="https://github.com/user-attachments/assets/ecd0e7c4-d797-461a-8513-8463e7b74262">
+
+#Flowchart
+![002](https://github.com/user-attachments/assets/b343562c-1733-466d-83dd-b60d30f14a1b)
