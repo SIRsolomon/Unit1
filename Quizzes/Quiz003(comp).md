@@ -29,3 +29,6 @@ print(out_protein)
 
 ##Proof of work
 <img width="1470" alt="Screenshot 2024-09-02 at 7 51 06 PM" src="https://github.com/user-attachments/assets/d3954fe4-a15e-4a7d-baed-5a926687587b">
+
+#Flowchart
+![003](https://github.com/user-attachments/assets/dfde8156-8da9-48ff-8dcc-f857c235862e)
