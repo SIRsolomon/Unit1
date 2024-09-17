@@ -37,3 +37,6 @@ print(out)
 
 ##Proof of work
 <img width="1470" alt="Screenshot 2024-09-11 at 11 25 19 PM" src="https://github.com/user-attachments/assets/05133677-f6d5-4073-8f64-51d99c9e5776">
+
+#Flowchart
+![008](https://github.com/user-attachments/assets/241d3b1f-fec8-4b09-8097-98e0ab37f1b7)
