@@ -34,3 +34,6 @@ for test_case in ['internationalization', 'localization', 'Hello world !', '98 9
 
 ##Proof of work
 <img width="1470" alt="Screenshot 2024-08-26 at 3 20 37 PM" src="https://github.com/user-attachments/assets/dc3677ee-8fbc-464b-b521-86224f045bdf">
+
+#Flow chart
+![001](https://github.com/user-attachments/assets/efa0def6-e08e-4b80-82dd-0cfc1269a90a)
