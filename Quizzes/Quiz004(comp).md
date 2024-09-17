@@ -40,3 +40,6 @@ else:
 
 ##Proof of work
 <img width="1470" alt="Screenshot 2024-09-02 at 7 51 24 PM" src="https://github.com/user-attachments/assets/bf94e219-c42e-461a-8b61-038a2bdaea77">
+
+#Flowchart
+![004](https://github.com/user-attachments/assets/e84c4601-509b-41fa-85d6-09c53cafeba1)
