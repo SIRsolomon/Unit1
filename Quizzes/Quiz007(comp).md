@@ -33,3 +33,6 @@ print(f"your password is {output}")
 
 ##Proof of work
 <img width="1470" alt="Screenshot 2024-09-10 at 3 11 15 PM" src="https://github.com/user-attachments/assets/e9370cd4-6b9c-4ae8-a64b-987a4d24a022">
+
+#Flowchart
+![007](https://github.com/user-attachments/assets/4a571424-52cc-4a66-b87c-1c0304c2eb19)
