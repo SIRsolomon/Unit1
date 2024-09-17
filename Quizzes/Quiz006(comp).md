@@ -17,3 +17,6 @@ print(M)
 
 ##Proof of work
 <img width="1470" alt="Screenshot 2024-09-11 at 11 45 11 PM" src="https://github.com/user-attachments/assets/8b2f49fd-15f3-49a4-8e5d-66b691324bc2">
+
+#Flow chart
+![006](https://github.com/user-attachments/assets/2e90c1c9-4542-4188-adca-d594b490478a)
