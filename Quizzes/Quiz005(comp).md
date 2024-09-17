@@ -29,3 +29,6 @@ for text in ['Math','maTH','Hello world','Computer SCIENCE']:
 
 ##Proof of work
 <img width="1470" alt="Screenshot 2024-09-12 at 9 51 12 AM" src="https://github.com/user-attachments/assets/737d1142-ae1f-4ed0-ae2b-ed43c465d853">
+
+#Flowchart
+![005](https://github.com/user-attachments/assets/da3b51f1-2998-4830-981c-6972ea9a7a8b)
