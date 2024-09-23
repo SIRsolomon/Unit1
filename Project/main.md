@@ -8,6 +8,8 @@
 
 ### Proposed Solution
 
+The proposed solution is to make a program which has a primary purpose as a front end and a secondary purpose hidden behind it in order to keep the passwords hidden and secure while the file wiht passwords will be stored separately and securely using encryption.
+
 ### Success Criteria
 
 ####
