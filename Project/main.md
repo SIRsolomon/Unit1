@@ -31,6 +31,79 @@ The proposed solution is to make a program which has a primary purpose as a fron
 
 ### Data storage
 
+####Global Variables:
+end_code: str
+red: str
+cyan: str
+Bold_red: str
+
+####In scramble(scramble_victim: str) -> str function:
+scramble_victim: str
+length: int
+library: str
+library2: str
+library3: str
+library4: str
+out: str
+i: int
+n: int
+
+####In un_scramble(victim: str) -> str function:
+victim: str
+length: int
+library: str
+library2: str
+library3: str
+library4: str
+out: str
+i: int
+n: int
+
+####In the while loop (calculator section):
+bleach: float
+soap: float
+dish_soap: int
+time: int
+wash_time: int
+wash_and_dry: int
+selection_for_calc: str
+color: str
+amt: int or str (depending on if it's converted or not)
+bleach_amt: float
+soap_amt: float
+dish_soap_amt: int
+l: int or str (depending on if it's converted or not)
+w: int or str (depending on if it's converted or not)
+area: int
+tot_time: int
+minutes: int
+seconds: int
+terminate: bool
+entrance: str
+
+####In the password manager section:
+data: list[str]
+catalog: dict[str, str]
+selection: str
+un_scrambled_data: str
+data_cleaned: str
+data_separated: list[str]
+name: str
+password: str
+check2: str
+check: str
+new_name: str
+new_password: str
+compilation: str
+scrambled: str
+list_of_passwords: str
+un_scrambled_list: str
+i: int
+number: int
+new_data: list[str]
+check3: str
+check4: str
+
 ### Test Plan
 | Test NO |      Type of test     |              Area tested              |                                                        Outcome of test                                                        | Time estimate | Target completion date | Criterion |
 |:-------:|:---------------------:|:-------------------------------------:|:-----------------------------------------------------------------------------------------------------------------------------:|:-------------:|:----------------------:|:---------:|
