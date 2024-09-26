@@ -24,20 +24,23 @@ The proposed solution is to make a program which has a primary purpose as a fron
 ## Criterion B: Design
 
 ### System Diagram
-![Comp sci project 1 systems diagram](https://github.com/user-attachments/assets/3da23d91-8dc4-4129-bbcd-9acd29fd3681)
+![Comp sci project 1 systems diagram (1)](https://github.com/user-attachments/assets/0a51abe4-0786-47e2-aad8-7c1ee820f7d0)
 
 ### Flow Diagrams for Algorithm
-![image](https://github.com/user-attachments/assets/1b3fcfd0-4fb7-45aa-a424-fa1f5099dd52)
-
+![image](https://github.com/user-attachments/assets/6132600f-2bd0-43ec-80de-722c38c662ad)
 
 ### Data storage
 
 ### Test Plan
 
 ## Record of Tasks 
-| TasK Number | Planned Action | Planned Outcome                                               | Time Estimated | Target Completion Date | Criterion |
-|-------------|----------------|---------------------------------------------------------------|----------------|------------------------|-----------|
-| 1           | Meet client    | Get a problem definition and discuss initial proposal         | 1 hour         | Sept 11th              | A         |
-| 2           | Brainstorm     | Brainstorm and come up with solution and success criteria     | 1 hour 10 mins | Sept 12th              | A         |
-| 3           | Meet client    | Show solution and succes criteria and get approval for design | 20 minutes     | Sept 12th              | A         |
-| 4           | Implementation | Begin design of program                                       | N/A            | Sept 13th              | B         |
+| TasK Number | Planned Action           | Planned Outcome                                               | Time Estimated | Target Completion Date | Criterion |
+|-------------|--------------------------|---------------------------------------------------------------|----------------|------------------------|-----------|
+| 1           | Meet client              | Get a problem definition and discuss initial proposal         | 1 hour         | Sept 11th              | A         |
+| 2           | Brainstorm               | Brainstorm and come up with solution and success criteria     | 1 hour 10 mins | Sept 12th              | A         |
+| 3           | Meet client              | Show solution and succes criteria and get approval for design | 20 minutes     | Sept 12th              | A         |
+| 4           | Systems diagram          | Design of systems diagram                                     | 30 minutes     | Sept 13th              | B         |
+| 5           | Flowchart design         | Creating the flowchart for the program                        | 3 hours        | Sept 15th              | B         |
+| 6           | Code design              | Writing code                                                  | 1 week         | Sept 25th              | B         |
+| 7           | Prototype presentation   | Presenting Prototype                                          | 20 minutes     | Sept 25th              | B         |
+| 8           | Finalization of Project  | Completion and Presentation of Project to client              | 10 minutes     | September 27th         | B         |
