@@ -32,6 +32,17 @@ The proposed solution is to make a program which has a primary purpose as a fron
 ### Data storage
 
 ### Test Plan
+| Test NO |      Type of test     |              Area tested              |                                                        Outcome of test                                                        | Time estimate | Target completion date | Criterion |
+|:-------:|:---------------------:|:-------------------------------------:|:-----------------------------------------------------------------------------------------------------------------------------:|:-------------:|:----------------------:|:---------:|
+| 1       | Functionality Testing | Cleaning Calculator                   | Ensuring the calculator works as intended even in extreme cases.                                                              | 10 minutes    | Sept 15th              | B         |
+| 2       | Functionality Testing | Password Manager                      | Testing ability to read and write to the storage file.                                                                        | 10 minutes    | Sept 16th              | B         |
+| 3       | Functionality Testing | Password Manager                      | Testing encryption and decryption functions.                                                                                  | 10 minutes    | Sept 17th              | B         |
+| 4       | Functionality Testing | Password Manager                      | Finding the ideal method to iterate the program and open the password manager function.                                       | 1 hour        | Sept 19th              | B         |
+| 5       | Functionality Testing | Password Manager                      | Successfully having the print all function that works.                                                                        | 30 minutes    | Sept 20th              | B         |
+| 6       | Functionality Testing | Password Manager                      | Having the ability to delete individual passwords as well as all to provide the user with options.                            | 20 minutes    | Sept 21st              | B         |
+| 7       | Functionality Testing | Password Manager/ Cleaning Calculator | Having an about page and terminate functions in both the password manager and calculator so the user can exit when they want. | 10 minutes    | Sept 22nd              | B         |
+| 8       | Functionality Testing | Password Manager/ Cleaning Calculator | Allowing the ability to return to the calculator from the password manager.                                                   | 5 minutes     | Sept 23rd              | B         |
+| 9       | Functionality Testing | Entire program                        | Ensuring that all functions within the program work together and debugging any issues which appear.                           | 20 minutes    | Sept 25th              | B         |
 
 ## Record of Tasks 
 | TasK Number | Planned Action           | Planned Outcome                                               | Time Estimated | Target Completion Date | Criterion |
