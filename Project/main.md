@@ -24,8 +24,11 @@ The proposed solution is to make a program which has a primary purpose as a fron
 ## Criterion B: Design
 
 ### System Diagram
+![Comp sci project 1 systems diagram](https://github.com/user-attachments/assets/3da23d91-8dc4-4129-bbcd-9acd29fd3681)
 
 ### Flow Diagrams for Algorithm
+![image](https://github.com/user-attachments/assets/1b3fcfd0-4fb7-45aa-a424-fa1f5099dd52)
+
 
 ### Data storage
 
