@@ -31,78 +31,78 @@ The proposed solution is to make a program which has a primary purpose as a fron
 
 ### Data storage
 
-####Global Variables:
-end_code: str
-red: str
-cyan: str
-Bold_red: str
+Global Variables:
+1. end_code: str
+2. red: str
+3. cyan: str
+4. Bold_red: str
 
-####In scramble(scramble_victim: str) -> str function:
-scramble_victim: str
-length: int
-library: str
-library2: str
-library3: str
-library4: str
-out: str
-i: int
-n: int
+In scramble(scramble_victim: str) -> str function:
+1. scramble_victim: str
+2. length: int
+3. library: str
+4. library2: str
+5. library3: str
+6. library4: str
+7. out: str
+8. i: int
+9. n: int
 
-####In un_scramble(victim: str) -> str function:
-victim: str
-length: int
-library: str
-library2: str
-library3: str
-library4: str
-out: str
-i: int
-n: int
+In un_scramble(victim: str) -> str function:
+1. victim: str
+2. length: int
+3. library: str
+4. library2: str
+5. library3: str
+6. library4: str
+7. out: str
+8. i: int
+9. n: int
 
-####In the while loop (calculator section):
-bleach: float
-soap: float
-dish_soap: int
-time: int
-wash_time: int
-wash_and_dry: int
-selection_for_calc: str
-color: str
-amt: int or str (depending on if it's converted or not)
-bleach_amt: float
-soap_amt: float
-dish_soap_amt: int
-l: int or str (depending on if it's converted or not)
-w: int or str (depending on if it's converted or not)
-area: int
-tot_time: int
-minutes: int
-seconds: int
-terminate: bool
-entrance: str
+In the while loop (calculator section):
+1. bleach: float
+2. soap: float
+3. dish_soap: int
+4. time: int
+5. wash_time: int
+6. wash_and_dry: int
+7. selection_for_calc: str
+8. color: str
+9. amt: int or str (depending on if it's converted or not)
+10. bleach_amt: float
+11. soap_amt: float
+12. dish_soap_amt: int
+13. l: int or str (depending on if it's converted or not)
+14. w: int or str (depending on if it's converted or not)
+15. area: int
+16. tot_time: int
+17. minutes: int
+18. seconds: int
+19. terminate: bool
+20. entrance: str
 
-####In the password manager section:
-data: list[str]
-catalog: dict[str, str]
-selection: str
-un_scrambled_data: str
-data_cleaned: str
-data_separated: list[str]
-name: str
-password: str
-check2: str
-check: str
-new_name: str
-new_password: str
-compilation: str
-scrambled: str
-list_of_passwords: str
-un_scrambled_list: str
-i: int
-number: int
-new_data: list[str]
-check3: str
-check4: str
+In the password manager section:
+1. data: list[str]
+2. catalog: dict[str, str]
+3. selection: str
+4. un_scrambled_data: str
+5. data_cleaned: str
+6. data_separated: list[str]
+7. name: str
+8. password: str
+9. check2: str
+10. check: str
+11. new_name: str
+12. new_password: str
+13. compilation: str
+14. scrambled: str
+15. list_of_passwords: str
+16. un_scrambled_list: str
+17. i: int
+18. number: int
+19. new_data: list[str]
+20. check3: str
+21. check4: str
 
 ### Test Plan
 | Test NO |      Type of test     |              Area tested              |                                                        Outcome of test                                                        | Time estimate | Target completion date | Criterion |
