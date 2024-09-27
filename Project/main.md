@@ -130,4 +130,4 @@ In the password manager section:
 | 8           | Finalization of Project  | Completion and Presentation of Project to client              | 10 minutes     | September 27th         | B         |
 
 ###Sources
--Reddit
+- Reddit
