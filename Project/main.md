@@ -128,3 +128,6 @@ In the password manager section:
 | 6           | Code design              | Writing code                                                  | 1 week         | Sept 25th              | B         |
 | 7           | Prototype presentation   | Presenting Prototype                                          | 20 minutes     | Sept 25th              | B         |
 | 8           | Finalization of Project  | Completion and Presentation of Project to client              | 10 minutes     | September 27th         | B         |
+
+###Sources
+Reddit
